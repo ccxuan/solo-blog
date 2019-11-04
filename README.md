@@ -10,8 +10,9 @@ CC 的个人博客
 
 ### 最新
 
-* [柯南宝贝满月记](http://ccxy.me/articles/2019/10/13/1570960090473.html)
-* [生日未生](http://ccxy.me/articles/2019/08/30/1567164205073.html)
+* [我在 GitHub 上的开源项目](https://ccxy.me/my-github-repos)
+* [柯南宝贝满月记](https://ccxy.me/articles/2019/10/13/1570960090473.html)
+* [生日未生](https://ccxy.me/articles/2019/08/30/1567164205073.html)
 
 
 
